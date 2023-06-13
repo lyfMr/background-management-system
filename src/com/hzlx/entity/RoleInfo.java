@@ -22,4 +22,6 @@ public class RoleInfo implements Serializable {
     private String name;
     private Date createTime;
     private Integer status;
+
+    public String a;
 }
